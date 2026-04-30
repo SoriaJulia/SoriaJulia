@@ -1,53 +1,54 @@
-<br clear="both">
+<h1 align="center">Hi! I'm Julia 👋</h1>
 
-<div align="center">
-  <img height="350" src="https://soriajulia.github.io/Portfolio/assets/img/studying.png"  />
-</div>
+<p align="center">
+Frontend Developer specialized in <b>React & Next.js</b>  
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SoriaJulia.SoriaJulia&left_color=darkslateblue&right_color=cadetblue"  />
-</div>
+### 👩🏻‍💻 About Me
 
-###
+* 💻 Frontend Developer with experience building real-world web applications
+* ⚛️ Focused on **React, Next.js and modern UI development**
+* 🎯 Strong interest in **UX/UI and reusable component systems**
+* 🌍 Open to **remote opportunities**
 
-<h1 align="center">Hi! Welcome to my Github 👋🏻</h1>
+---
 
-###
+### 🚀 Featured Projects
 
-<h3 align="left">👩🏻‍💻  About Me</h3>
+#### 🟢 MUK Budgeting Platform
 
-###
+Web platform for managing customer quotes for a ceramics store.
 
-<p align="left">I'm Julia from Argentina<br><br> 💻 I’m working as a freelance web developer + designer<br> 📚 I'm currently learning micropython with ESP32 <br> ⚡ In my free time, I like to play video games 🎮 or create something artistic, such as crafts or digital art🎨.</p>
+* Replaced manual workflows (WhatsApp/Instagram)
+* Dynamic product catalog + admin panel
+* Quote tracking system
+* Built with **Next.js + Supabase**
 
-###
+🔗 (link al proyecto)
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+#### 🟢 OSAP Platform
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
+Web platform for healthcare members and providers.
 
-###
+* Digital credentials, billing, patient data
+* +1000 users
+* Integration with external systems
+* Built reusable UI component system
+
+---
+
+### 🛠 Tech Stack
+
+* **Frontend:** React, Next.js, TypeScript, Tailwind
+* **Others:** REST APIs, Supabase, Git
+
+---
+
+### 📫 Contact
+
+* LinkedIn: https://linkedin.com/in/JuliaSoria
+* Email: [soriajulias@gmail.com](mailto:soriajulias@gmail.com)
