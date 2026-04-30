@@ -26,7 +26,6 @@ Web platform for managing customer quotes for a ceramics store.
 * Quote tracking system
 * Built with **Next.js + Supabase**
 
-🔗 (link al proyecto)
 
 ---
 
@@ -44,7 +43,7 @@ Web platform for healthcare members and providers.
 ### 🛠 Tech Stack
 
 * **Frontend:** React, Next.js, TypeScript, Tailwind
-* **Others:** REST APIs, Supabase, Git
+* **Others:** REST APIs, Git
 
 ---
 
